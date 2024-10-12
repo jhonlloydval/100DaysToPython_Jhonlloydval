@@ -11,6 +11,7 @@ my_function() # calling of function
 
 
 
+
 while True:
     try:
         hello = int(input("Enter a number: "))  # Request numeric input

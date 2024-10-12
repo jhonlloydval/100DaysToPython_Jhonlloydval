@@ -7,6 +7,7 @@ import random
 # random.randint(a,b)
 print(random.randint(1,100)) # prints number from 1-100 including 1 and 100
 
+
 # What is a MODULE?
 # Module is responsible for different bit of functionality of a program
 # How do we create our own module? 

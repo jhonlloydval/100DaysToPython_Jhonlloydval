@@ -7,6 +7,7 @@
 # Elif statements
 # Multiple ifs
 
+
 # ARITHMETIC OPERATIONS
 # Modulus
 # Used to know if a number is even or odd

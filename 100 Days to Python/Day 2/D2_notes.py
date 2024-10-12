@@ -9,6 +9,8 @@
 print("Hello"[4])
 print("Hello"[-1]) # -1 = Last index
 
+
+
 # Data type : Integers (Whole Number)
 print(123_456_789) # _ : For visualization 
 

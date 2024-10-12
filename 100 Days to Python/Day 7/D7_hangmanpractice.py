@@ -14,7 +14,6 @@ lives = 6
 
 print("Word to guess: " + "_" * len(chosen_word))
 
-
 while not game_over:
     print(f"\n****************************<{lives}>/6 LIVES LEFT****************************\n")
 
