@@ -1,1 +1,2 @@
-print("Hi")
+# DAY 13
+# ONLY DEBUGGING EXERCISES
