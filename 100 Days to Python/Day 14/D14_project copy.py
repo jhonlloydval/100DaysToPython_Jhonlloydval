@@ -8,7 +8,7 @@ from game_data import data
 # Grammar check for description
 def grammar(word):
     return "an" if word[0].upper() in {"A", "E", "I", "O", "U"} else "a"
-
+    
 # Function to get a random comparee from data
 def get_random_comparee(exclude=None):
     comparee = random.choice(data)
