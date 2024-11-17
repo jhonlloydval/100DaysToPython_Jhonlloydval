@@ -48,10 +48,8 @@ while not_game_over:
 
     # Detect colision with wall
 
-    for segment in snake.segments:
-        if segment == snake.head:
-            pass
-        elif snake.head.distance(segment) < 10:
+    for segment in snake.segments[1:]:
+        if snake.head.distance(segment) < 10:
             not_game_over = False
             scoreboard.game_over()
 
