@@ -25,7 +25,7 @@ screen.onkey(snake.right, "d")
 
 
 
-# Moving snake by itself
+# Moving snake bwy itself
 not_game_over = True
 
 while not_game_over:
